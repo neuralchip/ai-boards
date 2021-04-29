@@ -25,3 +25,11 @@ JetPack is compatible with NVIDIA’s world-leading AI platform for training and
 | **Others**         | GPIO, I2C, I2S, SPI, UART                                    |
 | **Mechanical**     | 69 mm x 45 mm, 260-pin edge connector                        |
 
+### Price
+
+| Model                                                     | Original Price (Amazon) | Iran                       |
+| --------------------------------------------------------- | ----------------------- | -------------------------- |
+| NVIDIA Jetson Nano 2GB Developer Kit (945-13541-0000-000) | $59.00 ~ $70.00         | (4.00 ~ 5.5) Million Tomas |
+|                                                           |                         |                            |
+|                                                           |                         |                            |
+
